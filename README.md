@@ -1,5 +1,6 @@
 # Assignment 1
 **Due by 11:59pm on Monday, 1/23/2017**
+**Demos due by 11:59pm on Friday, 2/3/2017**
 
 The goals of this assignment are to brush off your C++ skills by working with `struct`s and pointers and to start practicing some of the new things we're learning in this class, like file I/O.  Follow the directions below, and make sure your source code files (**no executable files, `.o` files, or other crufty stuff**) are committed and pushed back into your repository on GitHub to earn credit for the assignment.
 
@@ -145,3 +146,5 @@ This assignment is worth 100 points total:
   * 20 points: signed up for Piazza
   * 70 points: your program meets the specifications above
   * 10 points: your code is appropriately commented and uses consistent and appropriate style
+
+Your work on this assignment will be graded by demoing it with a TA.  During your demo, you will compile and run your program for the TA and walk them through your source code, describing to them how it works.  It'll be your responsibility to sign up for a 10-minute demo slot with a TA by the demo due date above.  **You will receive a zero on the assignment if you don't demo it with a TA by the demo due date.**
