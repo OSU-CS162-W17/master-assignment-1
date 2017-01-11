@@ -1,5 +1,6 @@
 # Assignment 1
 **Due by 11:59pm on Monday, 1/23/2017**
+
 **Demos due by 11:59pm on Friday, 2/3/2017**
 
 The goals of this assignment are to brush off your C++ skills by working with `struct`s and pointers and to start practicing some of the new things we're learning in this class, like file I/O.  Follow the directions below, and make sure your source code files (**no executable files, `.o` files, or other crufty stuff**) are committed and pushed back into your repository on GitHub to earn credit for the assignment.
