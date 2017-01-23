@@ -89,7 +89,6 @@ After your program reads and stores the state and county data from the specified
   * Print the state with the lowest unemployment in 2015.
   * Print the states in sorted order by change in unemployment from 2007 to 2015 (i.e. start with the largest decrease in unemployment and end with the largest increase in unemployment).
   * Print the states in sorted order based on median household income.
-  * Print all states with
   * Select a state and then:
     * Print the county in that state with the highest median household income.
     * Print the county in that state with the lowest median household income.
